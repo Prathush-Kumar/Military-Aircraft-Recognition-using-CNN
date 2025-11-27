@@ -1,4 +1,4 @@
-# Military Aircraft Recognition Using CNN
+# Military Aircraft Recognition Using CNN 
 
 This project is an end-to-end **Military Aircraft Recognition System** built using **Convolutional Neural Networks (CNN)**. The model identifies and classifies different military aircraft by processing annotated images, extracting object regions, training a deep learning model, and generating multiple visual evaluations to understand model performance.
 
